@@ -1,0 +1,5 @@
+name = input("请输入yun:")
+product_name = input("请输入chanpin")
+print("Dear", name)
+print("    Your purchased product : {} is delivered!".format(product_name))
+print("    Thanks for your choosing!")

@@ -1,5 +1,5 @@
-all_products=[]
-shopping_cart=[]
+all_products = []
+shopping_cart = []
 for i in range(5):
     product = input("请输入商品:")
     all_products.append(product)
